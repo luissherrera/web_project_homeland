@@ -12,7 +12,6 @@ Este proyecto presenta diferentes lugares de origen de personas de la comunidad 
 - CSS3
 - Metodología BEM
 - Flexbox
-- CSS Grid
 - Media Queries
 - Diseño responsivo
 
@@ -26,4 +25,4 @@ El proyecto fue diseñado teniendo en cuenta:
 
 ## GitHub Pages
 
-Aquí se agregará el enlace de GitHub Pages cuando el proyecto sea publicado.
+https://luissherrera.github.io/web_project_homeland/

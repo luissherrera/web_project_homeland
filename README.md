@@ -25,4 +25,4 @@ El proyecto fue diseñado teniendo en cuenta:
 
 ## GitHub Pages
 
-https://luissherrera.github.io/web_project_homeland/
+https://luissherrera.github.io/web_project_homeland/ 

@@ -28,6 +28,10 @@
 
 .place__artists {
   margin: 0;
+}
+
+.place__label {
+  margin: 0;
   font-size: 18px;
   line-height: 1.2;
   text-transform: uppercase;
@@ -80,9 +84,9 @@
     font-size: 52px;
   }
 
-  .place__artists {
-    font-size: 16px;
-  }
+ .place__label {
+  font-size: 16px;
+}
 
   .place__artist {
     font-size: 16px;
@@ -118,9 +122,9 @@
     gap: 20px;
   }
 
-  .place__artists {
-    font-size: 14px;
-  }
+  .place__label {
+  font-size: 14px;
+}
 
   .place__artist {
     font-size: 14px;
